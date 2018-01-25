@@ -17,7 +17,7 @@ function iLoveTheBeatles(i) {
   var result = [];
   var x = 0
     do {
-        result[i] = "I love the Beatles!";
+        result[x] = "I love the Beatles!";
         i++;
         x++;
     }

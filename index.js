@@ -20,7 +20,7 @@ function iLoveTheBeatles(x) {
         result[i] = "I love the Beatles!";
         i++;
     }
-    while (i<15){
+    while (x<15){
         return result
       }
   }

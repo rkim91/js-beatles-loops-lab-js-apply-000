@@ -21,7 +21,8 @@ function iLoveTheBeatles(x) {
         i++;
     }
     while (i<8){
-      if (i>17);
+      if (i>17); {
+        return result
       }
-  return result
+  }
 }

@@ -20,6 +20,7 @@ function iLoveTheBeatles(x) {
         result[i] = "I love the Beatles!";
         i++;
     }
-    while (i>17);
+    while {
+      if (i<8);
   return result
 }
